@@ -28,8 +28,8 @@ import androidx.preference.PreferenceScreen;
 
 import lineageos.preference.LineageSystemSettingSwitchPreference;
 import lineageos.preference.SystemSettingMainSwitchPreference;
-import lineageos.providers.LineageSettings;
-import lineageos.util.ColorUtils;
+import strixos.providers.LineageSettings;
+import strixos.util.ColorUtils;
 
 import org.lineageos.internal.notification.LightsCapabilities;
 import org.lineageos.lineageparts.R;

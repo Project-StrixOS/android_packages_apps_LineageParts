@@ -17,8 +17,8 @@ import androidx.preference.PreferenceCategory;
 import androidx.preference.SwitchPreferenceCompat;
 
 import lineageos.preference.LineageGlobalSettingListPreference;
-import lineageos.providers.LineageSettings;
-import lineageos.trust.TrustInterface;
+import strixos.providers.LineageSettings;
+import strixos.trust.TrustInterface;
 
 import org.lineageos.lineageparts.R;
 import org.lineageos.lineageparts.SettingsPreferenceFragment;

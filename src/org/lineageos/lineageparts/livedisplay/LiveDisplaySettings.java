@@ -5,17 +5,17 @@
  */
 package org.lineageos.lineageparts.livedisplay;
 
-import static lineageos.hardware.LiveDisplayManager.FEATURE_ANTI_FLICKER;
-import static lineageos.hardware.LiveDisplayManager.FEATURE_CABC;
-import static lineageos.hardware.LiveDisplayManager.FEATURE_COLOR_ADJUSTMENT;
-import static lineageos.hardware.LiveDisplayManager.FEATURE_COLOR_ENHANCEMENT;
-import static lineageos.hardware.LiveDisplayManager.FEATURE_PICTURE_ADJUSTMENT;
-import static lineageos.hardware.LiveDisplayManager.FEATURE_READING_ENHANCEMENT;
-import static lineageos.hardware.LiveDisplayManager.MODE_AUTO;
-import static lineageos.hardware.LiveDisplayManager.MODE_DAY;
-import static lineageos.hardware.LiveDisplayManager.MODE_NIGHT;
-import static lineageos.hardware.LiveDisplayManager.MODE_OFF;
-import static lineageos.hardware.LiveDisplayManager.MODE_OUTDOOR;
+import static strixos.hardware.LiveDisplayManager.FEATURE_ANTI_FLICKER;
+import static strixos.hardware.LiveDisplayManager.FEATURE_CABC;
+import static strixos.hardware.LiveDisplayManager.FEATURE_COLOR_ADJUSTMENT;
+import static strixos.hardware.LiveDisplayManager.FEATURE_COLOR_ENHANCEMENT;
+import static strixos.hardware.LiveDisplayManager.FEATURE_PICTURE_ADJUSTMENT;
+import static strixos.hardware.LiveDisplayManager.FEATURE_READING_ENHANCEMENT;
+import static strixos.hardware.LiveDisplayManager.MODE_AUTO;
+import static strixos.hardware.LiveDisplayManager.MODE_DAY;
+import static strixos.hardware.LiveDisplayManager.MODE_NIGHT;
+import static strixos.hardware.LiveDisplayManager.MODE_OFF;
+import static strixos.hardware.LiveDisplayManager.MODE_OUTDOOR;
 
 import android.content.Context;
 import android.content.res.Resources;
@@ -34,11 +34,11 @@ import androidx.preference.SwitchPreferenceCompat;
 
 import com.android.internal.util.ArrayUtils;
 
-import lineageos.hardware.LineageHardwareManager;
-import lineageos.hardware.LiveDisplayConfig;
-import lineageos.hardware.LiveDisplayManager;
-import lineageos.preference.SettingsHelper;
-import lineageos.providers.LineageSettings;
+import strixos.hardware.LineageHardwareManager;
+import strixos.hardware.LiveDisplayConfig;
+import strixos.hardware.LiveDisplayManager;
+import strixos.preference.SettingsHelper;
+import strixos.providers.LineageSettings;
 
 import org.lineageos.lineageparts.R;
 import org.lineageos.lineageparts.SettingsPreferenceFragment;

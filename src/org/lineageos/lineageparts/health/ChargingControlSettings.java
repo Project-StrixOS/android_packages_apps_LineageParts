@@ -5,9 +5,9 @@
 
 package org.lineageos.lineageparts.health;
 
-import static lineageos.health.HealthInterface.MODE_AUTO;
-import static lineageos.health.HealthInterface.MODE_LIMIT;
-import static lineageos.health.HealthInterface.MODE_MANUAL;
+import static strixos.health.HealthInterface.MODE_AUTO;
+import static strixos.health.HealthInterface.MODE_LIMIT;
+import static strixos.health.HealthInterface.MODE_MANUAL;
 
 import android.content.Context;
 import android.content.res.Resources;
@@ -20,10 +20,10 @@ import android.view.MenuItem;
 import androidx.preference.Preference;
 import androidx.preference.PreferenceScreen;
 
-import lineageos.health.HealthInterface;
+import strixos.health.HealthInterface;
 import lineageos.preference.LineageSystemSettingListPreference;
 import lineageos.preference.LineageSystemSettingMainSwitchPreference;
-import lineageos.providers.LineageSettings;
+import strixos.providers.LineageSettings;
 
 import org.lineageos.lineageparts.R;
 import org.lineageos.lineageparts.SettingsPreferenceFragment;

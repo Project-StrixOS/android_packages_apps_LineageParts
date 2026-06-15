@@ -21,7 +21,7 @@ import androidx.preference.PreferenceScreen;
 
 import lineageos.preference.LineageSystemSettingMainSwitchPreference;
 import lineageos.preference.LineageSystemSettingSwitchPreference;
-import lineageos.providers.LineageSettings;
+import strixos.providers.LineageSettings;
 
 import org.lineageos.internal.notification.LightsCapabilities;
 import org.lineageos.lineageparts.R;

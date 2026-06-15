@@ -14,7 +14,7 @@ import androidx.preference.ListPreference;
 import androidx.preference.Preference;
 
 import lineageos.preference.LineageSecureSettingSwitchPreference;
-import lineageos.providers.LineageSettings;
+import strixos.providers.LineageSettings;
 
 import org.lineageos.lineageparts.R;
 import org.lineageos.lineageparts.SettingsPreferenceFragment;

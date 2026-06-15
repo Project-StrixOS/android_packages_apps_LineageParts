@@ -24,7 +24,7 @@ import androidx.preference.PreferenceCategory;
 import com.android.internal.util.EmergencyAffordanceManager;
 import com.android.settingslib.applications.ServiceListing;
 
-import lineageos.app.LineageGlobalActions;
+import strixos.app.LineageGlobalActions;
 
 import org.lineageos.internal.util.PowerMenuConstants;
 import org.lineageos.lineageparts.R;

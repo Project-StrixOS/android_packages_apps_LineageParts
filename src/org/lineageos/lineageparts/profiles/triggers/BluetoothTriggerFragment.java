@@ -14,7 +14,7 @@ import android.content.Intent;
 import android.os.Bundle;
 import android.provider.Settings;
 
-import lineageos.app.Profile;
+import strixos.app.Profile;
 
 import org.lineageos.lineageparts.R;
 

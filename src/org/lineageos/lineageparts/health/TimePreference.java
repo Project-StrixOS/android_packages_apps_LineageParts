@@ -17,7 +17,7 @@ import android.widget.TimePicker;
 import androidx.appcompat.app.AlertDialog;
 import androidx.preference.PreferenceViewHolder;
 
-import lineageos.health.HealthInterface;
+import strixos.health.HealthInterface;
 
 import org.lineageos.lineageparts.R;
 import org.lineageos.lineageparts.widget.CustomDialogPreference;

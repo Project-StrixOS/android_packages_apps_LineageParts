@@ -37,8 +37,8 @@ import androidx.preference.PreferenceManager;
 import androidx.preference.PreferenceScreen;
 import androidx.preference.SwitchPreferenceCompat;
 
-import lineageos.hardware.LineageHardwareManager;
-import lineageos.providers.LineageSettings;
+import strixos.hardware.LineageHardwareManager;
+import strixos.providers.LineageSettings;
 
 import org.lineageos.lineageparts.R;
 import org.lineageos.lineageparts.SettingsPreferenceFragment;

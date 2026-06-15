@@ -17,7 +17,7 @@ import android.widget.TextView;
 
 import androidx.appcompat.app.AlertDialog;
 
-import lineageos.hardware.LiveDisplayManager;
+import strixos.hardware.LiveDisplayManager;
 
 import org.lineageos.lineageparts.R;
 import org.lineageos.lineageparts.widget.CustomDialogPreference;

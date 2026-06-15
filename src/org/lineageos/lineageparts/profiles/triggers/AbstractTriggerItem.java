@@ -4,7 +4,7 @@
  */
 package org.lineageos.lineageparts.profiles.triggers;
 
-import lineageos.app.Profile;
+import strixos.app.Profile;
 
 public class AbstractTriggerItem {
     private int mIcon;

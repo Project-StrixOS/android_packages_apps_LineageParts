@@ -18,8 +18,8 @@ import android.widget.TextView;
 
 import androidx.appcompat.app.AlertDialog;
 
-import lineageos.hardware.LiveDisplayConfig;
-import lineageos.hardware.LiveDisplayManager;
+import strixos.hardware.LiveDisplayConfig;
+import strixos.hardware.LiveDisplayManager;
 
 import org.lineageos.internal.util.MathUtils;
 import org.lineageos.lineageparts.R;

@@ -7,7 +7,7 @@ package org.lineageos.lineageparts.profiles.actions.item;
 
 import android.content.Context;
 
-import lineageos.app.Profile;
+import strixos.app.Profile;
 
 import org.lineageos.lineageparts.R;
 

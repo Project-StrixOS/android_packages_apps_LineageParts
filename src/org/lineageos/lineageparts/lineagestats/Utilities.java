@@ -13,7 +13,7 @@ import android.provider.Settings;
 import android.telephony.TelephonyManager;
 import android.text.TextUtils;
 
-import lineageos.providers.LineageSettings;
+import strixos.providers.LineageSettings;
 
 import java.math.BigInteger;
 import java.security.MessageDigest;
@@ -64,11 +64,11 @@ public class Utilities {
     }
 
     public static String getDevice() {
-        return SystemProperties.get("ro.lineage.device", Build.PRODUCT);
+        return SystemProperties.get("ro.los.device", Build.PRODUCT);
     }
 
     public static String getModVersion() {
-        return SystemProperties.get("ro.lineage.version", Build.DISPLAY);
+        return SystemProperties.get("ro.los.version", Build.DISPLAY);
     }
 
     public static String digest(String input) {

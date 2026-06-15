@@ -22,7 +22,7 @@ import com.android.settingslib.fuelgauge.BatteryUtils;
 import lineageos.preference.LineageSecureSettingListPreference;
 import lineageos.preference.LineageSecureSettingSwitchPreference;
 import lineageos.preference.LineageSystemSettingListPreference;
-import lineageos.providers.LineageSettings;
+import strixos.providers.LineageSettings;
 
 import org.lineageos.lineageparts.R;
 import org.lineageos.lineageparts.SettingsPreferenceFragment;

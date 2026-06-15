@@ -31,9 +31,9 @@ import androidx.preference.PreferenceScreen;
 
 import com.android.settingslib.widget.MainSwitchBar;
 
-import lineageos.app.Profile;
-import lineageos.app.ProfileManager;
-import lineageos.providers.LineageSettings;
+import strixos.app.Profile;
+import strixos.app.ProfileManager;
+import strixos.providers.LineageSettings;
 
 import org.lineageos.lineageparts.PartsActivity;
 import org.lineageos.lineageparts.R;

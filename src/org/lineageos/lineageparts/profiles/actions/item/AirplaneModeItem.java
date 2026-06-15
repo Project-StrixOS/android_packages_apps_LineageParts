@@ -7,7 +7,7 @@ package org.lineageos.lineageparts.profiles.actions.item;
 
 import android.content.Context;
 
-import lineageos.profiles.AirplaneModeSettings;
+import strixos.profiles.AirplaneModeSettings;
 
 import org.lineageos.lineageparts.R;
 
