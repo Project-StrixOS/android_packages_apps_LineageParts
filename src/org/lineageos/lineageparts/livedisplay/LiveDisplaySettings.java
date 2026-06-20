@@ -37,7 +37,7 @@ import com.android.internal.util.ArrayUtils;
 import strixos.hardware.LineageHardwareManager;
 import strixos.hardware.LiveDisplayConfig;
 import strixos.hardware.LiveDisplayManager;
-import strixos.preference.SettingsHelper;
+import lineageos.preference.SettingsHelper;
 import strixos.providers.LineageSettings;
 
 import org.lineageos.lineageparts.R;
