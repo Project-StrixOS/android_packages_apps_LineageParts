@@ -17,7 +17,7 @@ import com.android.settingslib.widget.SliderPreference;
 import com.google.android.material.slider.LabelFormatter;
 import com.google.android.material.slider.Slider;
 
-import lineageos.health.HealthInterface;
+import strixos.health.HealthInterface;
 
 import org.lineageos.lineageparts.R;
 

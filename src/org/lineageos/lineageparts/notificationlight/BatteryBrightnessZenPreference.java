@@ -10,7 +10,7 @@ import android.content.Context;
 import android.os.UserHandle;
 import android.util.AttributeSet;
 
-import lineageos.providers.LineageSettings;
+import strixos.providers.LineageSettings;
 
 public class BatteryBrightnessZenPreference extends BrightnessPreference {
     private static final String TAG = "BatteryBrightnessZenPreference";

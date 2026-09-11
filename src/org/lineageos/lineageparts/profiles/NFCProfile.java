@@ -16,9 +16,9 @@ import android.os.Bundle;
 import android.os.Parcelable;
 import android.widget.Toast;
 
-import lineageos.app.Profile;
-import lineageos.app.ProfileManager;
-import lineageos.providers.LineageSettings;
+import strixos.app.Profile;
+import strixos.app.ProfileManager;
+import strixos.providers.LineageSettings;
 
 import org.lineageos.lineageparts.R;
 

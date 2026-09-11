@@ -8,7 +8,7 @@ package org.lineageos.lineageparts.profiles.actions.item;
 import android.content.Context;
 import android.media.AudioManager;
 
-import lineageos.profiles.StreamSettings;
+import strixos.profiles.StreamSettings;
 
 import org.lineageos.lineageparts.R;
 

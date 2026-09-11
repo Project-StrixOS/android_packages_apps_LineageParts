@@ -20,7 +20,7 @@ import android.widget.Toast;
 
 import androidx.fragment.app.Fragment;
 
-import lineageos.app.Profile;
+import strixos.app.Profile;
 
 import org.lineageos.lineageparts.PartsActivity;
 import org.lineageos.lineageparts.R;

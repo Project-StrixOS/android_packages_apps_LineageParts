@@ -7,7 +7,7 @@ package org.lineageos.lineageparts.profiles.actions.item;
 
 import android.content.Context;
 
-import lineageos.profiles.RingModeSettings;
+import strixos.profiles.RingModeSettings;
 
 import org.lineageos.lineageparts.R;
 

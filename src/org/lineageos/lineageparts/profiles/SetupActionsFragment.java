@@ -6,13 +6,13 @@
 
 package org.lineageos.lineageparts.profiles;
 
-import static lineageos.profiles.ConnectionSettings.PROFILE_CONNECTION_BLUETOOTH;
-import static lineageos.profiles.ConnectionSettings.PROFILE_CONNECTION_LOCATION;
-import static lineageos.profiles.ConnectionSettings.PROFILE_CONNECTION_MOBILEDATA;
-import static lineageos.profiles.ConnectionSettings.PROFILE_CONNECTION_NFC;
-import static lineageos.profiles.ConnectionSettings.PROFILE_CONNECTION_SYNC;
-import static lineageos.profiles.ConnectionSettings.PROFILE_CONNECTION_WIFI;
-import static lineageos.profiles.ConnectionSettings.PROFILE_CONNECTION_WIFIAP;
+import static strixos.profiles.ConnectionSettings.PROFILE_CONNECTION_BLUETOOTH;
+import static strixos.profiles.ConnectionSettings.PROFILE_CONNECTION_LOCATION;
+import static strixos.profiles.ConnectionSettings.PROFILE_CONNECTION_MOBILEDATA;
+import static strixos.profiles.ConnectionSettings.PROFILE_CONNECTION_NFC;
+import static strixos.profiles.ConnectionSettings.PROFILE_CONNECTION_SYNC;
+import static strixos.profiles.ConnectionSettings.PROFILE_CONNECTION_WIFI;
+import static strixos.profiles.ConnectionSettings.PROFILE_CONNECTION_WIFIAP;
 
 import android.app.Activity;
 import android.app.Dialog;
@@ -50,14 +50,14 @@ import androidx.appcompat.app.AlertDialog;
 import androidx.recyclerview.widget.LinearLayoutManager;
 import androidx.recyclerview.widget.RecyclerView;
 
-import lineageos.app.Profile;
-import lineageos.app.ProfileManager;
-import lineageos.profiles.AirplaneModeSettings;
-import lineageos.profiles.BrightnessSettings;
-import lineageos.profiles.ConnectionSettings;
-import lineageos.profiles.LockSettings;
-import lineageos.profiles.RingModeSettings;
-import lineageos.profiles.StreamSettings;
+import strixos.app.Profile;
+import strixos.app.ProfileManager;
+import strixos.profiles.AirplaneModeSettings;
+import strixos.profiles.BrightnessSettings;
+import strixos.profiles.ConnectionSettings;
+import strixos.profiles.LockSettings;
+import strixos.profiles.RingModeSettings;
+import strixos.profiles.StreamSettings;
 
 import org.lineageos.lineageparts.PartsActivity;
 import org.lineageos.lineageparts.R;

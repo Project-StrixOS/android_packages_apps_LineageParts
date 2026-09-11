@@ -16,8 +16,8 @@ import android.os.Bundle;
 import android.util.Log;
 import android.widget.Toast;
 
-import lineageos.app.Profile;
-import lineageos.app.ProfileManager;
+import strixos.app.Profile;
+import strixos.app.ProfileManager;
 
 import org.lineageos.lineageparts.R;
 

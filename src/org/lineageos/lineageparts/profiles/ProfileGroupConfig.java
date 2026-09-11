@@ -12,10 +12,10 @@ import android.os.Bundle;
 import androidx.preference.ListPreference;
 import androidx.preference.Preference;
 
-import lineageos.app.Profile;
-import lineageos.app.ProfileGroup;
-import lineageos.app.ProfileGroup.Mode;
-import lineageos.app.ProfileManager;
+import strixos.app.Profile;
+import strixos.app.ProfileGroup;
+import strixos.app.ProfileGroup.Mode;
+import strixos.app.ProfileManager;
 
 import org.lineageos.lineageparts.R;
 import org.lineageos.lineageparts.SettingsPreferenceFragment;

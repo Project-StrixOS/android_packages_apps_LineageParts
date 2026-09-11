@@ -111,7 +111,7 @@
         <activity-alias
             android:name=".livedisplay.LiveDisplaySettings"
             android:exported="true"
-            android:label="@*lineageos.platform:string/live_display_title"
+            android:label="@*strixos.platform:string/live_display_title"
             android:targetActivity="PartsActivity">
             <intent-filter>
                 <action android:name="com.android.settings.action.IA_SETTINGS" />

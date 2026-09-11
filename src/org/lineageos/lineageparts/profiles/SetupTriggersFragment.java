@@ -19,7 +19,7 @@ import androidx.annotation.NonNull;
 
 import com.google.android.material.appbar.CollapsingToolbarLayout;
 
-import lineageos.app.Profile;
+import strixos.app.Profile;
 
 import org.lineageos.lineageparts.PartsActivity;
 import org.lineageos.lineageparts.R;

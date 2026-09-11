@@ -16,7 +16,7 @@ import android.os.VibrationEffect;
 import android.os.Vibrator;
 import android.util.Log;
 
-import lineageos.app.Profile;
+import strixos.app.Profile;
 
 import java.io.IOException;
 import java.util.UUID;

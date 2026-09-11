@@ -21,8 +21,8 @@ import androidx.fragment.app.Fragment;
 import androidx.recyclerview.widget.LinearLayoutManager;
 import androidx.recyclerview.widget.RecyclerView;
 
-import lineageos.app.Profile;
-import lineageos.app.ProfileManager;
+import strixos.app.Profile;
+import strixos.app.ProfileManager;
 
 import org.lineageos.lineageparts.R;
 import org.lineageos.lineageparts.profiles.ProfilesSettings;

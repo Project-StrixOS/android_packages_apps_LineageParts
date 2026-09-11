@@ -6,7 +6,7 @@
 
 package org.lineageos.lineageparts.livedisplay;
 
-import static lineageos.hardware.LiveDisplayManager.FEATURE_DISPLAY_MODES;
+import static strixos.hardware.LiveDisplayManager.FEATURE_DISPLAY_MODES;
 
 import android.content.Context;
 import android.os.Bundle;
@@ -27,10 +27,10 @@ import androidx.viewpager.widget.ViewPager;
 import com.android.settingslib.widget.LayoutPreference;
 import com.android.settingslib.widget.SelectorWithWidgetPreference;
 
-import lineageos.hardware.DisplayMode;
-import lineageos.hardware.LineageHardwareManager;
-import lineageos.hardware.LiveDisplayConfig;
-import lineageos.hardware.LiveDisplayManager;
+import strixos.hardware.DisplayMode;
+import strixos.hardware.LineageHardwareManager;
+import strixos.hardware.LiveDisplayConfig;
+import strixos.hardware.LiveDisplayManager;
 
 import org.lineageos.lineageparts.R;
 import org.lineageos.lineageparts.SettingsPreferenceFragment;

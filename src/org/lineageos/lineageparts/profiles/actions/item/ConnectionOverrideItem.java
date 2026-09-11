@@ -7,7 +7,7 @@ package org.lineageos.lineageparts.profiles.actions.item;
 
 import android.content.Context;
 
-import lineageos.profiles.ConnectionSettings;
+import strixos.profiles.ConnectionSettings;
 
 import org.lineageos.lineageparts.R;
 

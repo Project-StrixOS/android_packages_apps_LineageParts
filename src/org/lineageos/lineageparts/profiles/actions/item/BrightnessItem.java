@@ -7,7 +7,7 @@ package org.lineageos.lineageparts.profiles.actions.item;
 
 import android.content.Context;
 
-import lineageos.profiles.BrightnessSettings;
+import strixos.profiles.BrightnessSettings;
 
 import org.lineageos.lineageparts.R;
 

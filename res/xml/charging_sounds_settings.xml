@@ -40,7 +40,7 @@
             android:title="@string/wireless_charging_sounds_title"
             android:dependency="charging_sounds_enabled"
             android:persistent="false"
-            lineage:requiresConfig="@*lineageos.platform:bool/config_deviceSupportsWirelessCharging" />
+            lineage:requiresConfig="@*strixos.platform:bool/config_deviceSupportsWirelessCharging" />
 
     </PreferenceCategory>
 

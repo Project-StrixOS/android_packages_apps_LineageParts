@@ -4,7 +4,7 @@
      SPDX-License-Identifier: Apache-2.0
 -->
 <permissions>
-    <privapp-permissions package="org.lineageos.lineageparts">
+    <privapp-permissions package="com.android.losparts">
         <permission name="android.permission.CHANGE_CONFIGURATION"/>
         <permission name="android.permission.READ_SEARCH_INDEXABLES"/>
         <permission name="android.permission.WRITE_MEDIA_STORAGE"/>

@@ -14,8 +14,8 @@ import android.widget.ImageView;
 
 import androidx.appcompat.app.AppCompatActivity;
 
-import lineageos.providers.LineageSettings;
-import lineageos.trust.TrustInterface;
+import strixos.providers.LineageSettings;
+import strixos.trust.TrustInterface;
 
 import org.lineageos.lineageparts.R;
 
